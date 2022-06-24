@@ -9,6 +9,8 @@ Main window contains inputs for getting the profit based on basic options (inclu
 For starting work, please, clone and build the solution in Visual Studio. 
 Extract csv file with data source to the folder and put valid path into necessary field.
 Results will be in text file (results-{datetime}.txt).
+### Notice:
+Please, be sure that paths that you have for CSV file and folder for result is exists.
 
 ### Inputs:
 - Balance BTC - contains initial balance of bitcoins for customer
