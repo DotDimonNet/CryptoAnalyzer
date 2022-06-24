@@ -1,6 +1,8 @@
-### CryptoAnalyzer
+## CryptoAnalyzer
 Predict best profit from the predictive data for date range
 
+### Fast running:
+If you don't have Visual Studio installed, you can open CryptoAnalyzerBuild folder and run [.exe] file.
 
 Main window contains inputs for getting the profit based on basic options (includes balance, treshold, etc.)
 
