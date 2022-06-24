@@ -9,8 +9,8 @@ Extract csv file with data source to the folder and put valid path into necessar
 Results will be in text file (results-{datetime}.txt).
 
 ### Inputs:
-Balance BTC - contains initial balance of bitcoins for customer
-Balance USD - contains initial balance of dollars for customer
-Treshold BTC to USD - contains percentage division value between real and predictive data
-Treshold USD to BTC - contains percentage division value between real and predictive data
-Limit for action - contains percent of total balance (USD or BTC) that customer can operate on specific time (day)
+- Balance BTC - contains initial balance of bitcoins for customer
+- Balance USD - contains initial balance of dollars for customer
+- Treshold BTC to USD - contains percentage division value between real and predictive data
+- Treshold USD to BTC - contains percentage division value between real and predictive data
+- Limit for action - contains percent of total balance (USD or BTC) that customer can operate on specific time (day)
